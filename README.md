@@ -1,11 +1,12 @@
 #Simple Web Templates
-A small collection of simple templates and useful tools for _awesome_ modern web development.
+**A small collection of simple templates and useful tools for _awesome_ modern web development.**
+
 Feel free to modify it to your liking. Pull requests and issues are welcome.
 
 ##Main Features
 - simple, lightweight, and configurable
 - valid HTML 5 template with tons of important and useful stuff
-- jQuery and JavaScript cookie support
+- jQuery and JavaScript cookie scripts built in
 - CSS Reset and HTML 5 shiv for nicer cross-browser development
 
 ##Files
