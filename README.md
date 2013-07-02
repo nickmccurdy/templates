@@ -21,7 +21,3 @@ Feel free to modify it to your liking. Pull requests and issues are welcome.
 ###Styling Tools
 - **reset.css**: a CSS reset to avoid styling inconsistencies across browsers ([link](http://meyerweb.com/eric/tools/css/reset/))
 - **HTML5 Shiv**: helps older versions of IE and other browsers display styled HTML 5 tags properly ([link](https://github.com/aFarkas/html5shiv))
-
-###Empty Files
-- **scripts.js**
-- **styles.css**
