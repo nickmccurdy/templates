@@ -10,6 +10,7 @@ var Cookies = {
     }
     else var expires = "";
     document.cookie = name+"="+value+expires+"; path=/";
+    return this;
   },
 
   get: function (name) {
@@ -24,7 +25,8 @@ var Cookies = {
   },
 
   clear: function (name) {
-    createCookie(name,"",-1);
+    Cookies.set(name,"",-1);
+    return this;
   }
 
 };
