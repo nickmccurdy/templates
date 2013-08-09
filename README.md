@@ -1,4 +1,4 @@
-#Simple Web Templates
+#Web Templates
 **A small collection of simple templates and useful tools for _awesome_ modern web development.**
 
 Feel free to modify it to your liking. Pull requests and issues are welcome.
