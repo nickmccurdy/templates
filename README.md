@@ -24,4 +24,5 @@ A small collection of simple templates for popular languages, frameworks, and to
 Many frameworks and tools have built in generators for new projects. These can often be more helpful than templates, since many generators hvae configurable options.
 - Rails Apps: `rails new` (http://guides.rubyonrails.org/command_line.html#rails-new)
 - Ruby Gems: `bundle gem` (http://bundler.io/v1.3/rubygems.html)
+- Jekyll Sites: `jekyll new` (http://jekyllrb.com/)
 - Git Ignore Files: https://github.com/github/gitignore
