@@ -1,7 +1,5 @@
-#Web Templates
-**A small collection of simple templates and useful tools for _awesome_ modern web development.**
-
-Feel free to modify it to your liking. Pull requests and issues are welcome.
+#Templates
+A small collection of simple templates for popular languages, frameworks, and tools.
 
 ##Main Features
 - simple, lightweight, and configurable
@@ -21,3 +19,9 @@ Feel free to modify it to your liking. Pull requests and issues are welcome.
 ###Styling Tools
 - **reset.css**: a CSS reset to avoid styling inconsistencies across browsers ([link](http://meyerweb.com/eric/tools/css/reset/))
 - **HTML5 Shiv**: helps older versions of IE and other browsers display styled HTML 5 tags properly ([link](https://github.com/aFarkas/html5shiv))
+
+##Helpful Generators and References
+Many frameworks and tools have built in generators for new projects. These can often be more helpful than templates, since many generators hvae configurable options.
+- Rails Apps: `rails new` (http://guides.rubyonrails.org/command_line.html#rails-new)
+- Ruby Gems: `bundle gem` (http://bundler.io/v1.3/rubygems.html)
+- Git Ignore Files: https://github.com/github/gitignore
