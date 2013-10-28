@@ -10,6 +10,11 @@
   <property name="build" location="build"/>
   <property name="dist" location="dist"/>
 
+  <presetdef name="javac">
+    <!-- See https://ant.apache.org/manual/Tasks/javac.html -->
+    <javac includeantruntime="false"/>
+  </presetdef>
+
   <target name="init">
     <tstamp/>
     <mkdir dir="${build}"/>
