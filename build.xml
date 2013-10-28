@@ -1,6 +1,6 @@
 <!-- See http://ant.apache.org/manual/using.html#example -->
 
-<project name="MyProject" default="dist" basedir=".">
+<project name="MyProject" default="dist">
   <description>
     simple example build file
   </description>
