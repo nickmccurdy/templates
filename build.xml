@@ -19,6 +19,14 @@
     <javac srcdir="${src}" destdir="${build}"/>
   </target>
 
+  <target name="run" depends="compile" description="run the main class">
+    <java classname="Main">
+      <classpath>
+	<pathelement path="${build}"/>
+      </classpath>
+    </java>
+  </target>
+
   <target name="dist" depends="compile" description="generate the distribution">
     <mkdir dir="${dist}/lib"/>
     <jar jarfile="${dist}/lib/MyProject-${DSTAMP}.jar" basedir="${build}"/>
