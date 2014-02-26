@@ -18,4 +18,5 @@ Type | Command | More Information
 Rails App | `rails new` | http://guides.rubyonrails.org/command_line.html#rails-new
 Ruby Gem | `bundle gem` | http://bundler.io/v1.3/rubygems.html
 Jekyll Site | `jekyll new` | http://jekyllrb.com/
+Express App | `express` | http://expressjs.com/
 Git Ignore File | | https://github.com/github/gitignore
